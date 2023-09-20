@@ -1,0 +1,17 @@
+import 'package:flutter/foundation.dart';
+
+const LOGIN = 'login';
+
+const HOME = 'home';
+
+const CATEGORY = 'categories';
+
+const FAVORITE = 'favorites';
+
+const PROFILE = 'profile';
+
+const REGISTER = 'register';
+
+const UPDATE_DATE = 'update-profile';
+
+const SEARCH = 'products/search';
